@@ -9,8 +9,8 @@ Created while studying at [Makers Academy](http://www.makersacademy.com)
 
 #### How to Use
 
-Basic Inputs
-==
+**Basic Inputs**
+
 
 Input your daily wage.
 Your estimated hourly wage will be returned to you!
@@ -26,8 +26,8 @@ Your hourly wage will be returned to you, also letting you know if you are earni
 $ ruby 'basic_input_multiple.rb'
 ~~~
 
-Basic Methods
-==
+**Basic Methods**
+
 Use the 'hourly_wage' method by passing through your daily wage.
 Your estimated hourly wage will be retuned to you!
 
