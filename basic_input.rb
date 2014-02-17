@@ -5,5 +5,5 @@ end
 puts "What is your daily wage?"
 input=gets.chomp.to_i
 
-puts "If you work an 8 hour week your daily wage is:"
+puts "If you work an 8 hour day your hourly wage is:"
 puts hourly_wage(input)
